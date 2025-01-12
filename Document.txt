@@ -1,1 +1,10 @@
-.txt
+## Visão Geral
+O Proteplan viwer é uma aplicação desktop desenvolvida em Python usando o framework Kivy, projetada para exibir e gerenciar uma biblioteca de ebooks. A aplicação se conecta a um servidor Flask para recuperar informações sobre os ebooks disponíveis e permite que os usuários abram os arquivos PDF diretamente do aplicativo.
+
+Possíveis Melhorias Futuras
+1. Implementar sistema de busca
+2. Adicionar preview de PDF
+3. Suporte a mais formatos de ebook
+4. Sistema de categorização
+5. Modo offline
+6. Sincronização com serviços em nuvem
